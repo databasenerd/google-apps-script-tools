@@ -65,8 +65,6 @@ function checkForDocs() { // File names will always have to be "[ADDRESS] - [CAR
     e.removeLabel(label).refresh();
     console.log("Complete");
 
-    //reply with link to file
-
   });
 
 
